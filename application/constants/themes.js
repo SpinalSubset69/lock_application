@@ -1,0 +1,7 @@
+export const DARK_THEME = {
+  MAIN_COLOR: "#0F0E0E",
+  WHITE_COLOR: "#FFFFFF",
+  PURPLE_COLOR: "#D62AD0",
+  GRAY_COLOR: "#595260",
+  RED_COLOR: "#B91646",
+};
